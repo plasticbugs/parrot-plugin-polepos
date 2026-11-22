@@ -1,0 +1,4 @@
+commit 77321b817819ef1d82bc1cf5fafda13ccf7d4d3e
+date   2026-11-21T21:07:25-08:00
+about  Pole Position 0.1.2: louder, one three-tone DAC for both lists
+copied 2026-11-22 by tools/update-sdk.sh
