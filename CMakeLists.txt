@@ -72,5 +72,5 @@ cvpsram_use(polepos)
 cvpad_use(polepos)                           # USB game pads: the port is a host
 pico_enable_stdio_usb(polepos 0)
 pico_enable_stdio_uart(polepos 0)
-cvcart_plugin(polepos ID parrotcart.polepos NAME "Pole Position" VERSION 0.1.3 BY "Parrot Cart"
+cvcart_plugin(polepos ID parrotcart.polepos NAME "Pole Position" VERSION 0.1.4 BY "Parrot Cart"
               HOME /POLEPOS USES usb-host ICON src/polepos/polepos_icon.txt FILE POLEPOS.CVP README CART-README.md XIP)
